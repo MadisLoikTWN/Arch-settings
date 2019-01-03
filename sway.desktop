@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Sway
+Comment=SirCmpwn's Wayland window manager
+Exec=env XKB_DEFAULT_LAYOUT=us,ee XKB_DEFAULT_OPTIONS=grp:win_space_toggle sway
+Type=Application
